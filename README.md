@@ -14,7 +14,7 @@
 - 🚀 **Aspiring Software Engineer** passionate about solving real-world problems through clean, efficient code
 - 💻 Skilled in **Full-Stack Development (MERN Stack)**, **Core Java**, **REST APIs**, and backend systems
 - 🌱 Currently strengthening **Data Structures & Algorithms (DSA)** in Java and building scalable web applications
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **harshprajapat962@gmail.com**
 - ⚡ Fun fact: Earned the 100-day consistency badge on LeetCode and built real-world projects like Dream Nest & SiyaAI
 
 ---
