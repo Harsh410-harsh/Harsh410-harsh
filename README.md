@@ -51,9 +51,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh410-harsh&theme=onedark&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Harsh410-harsh&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
